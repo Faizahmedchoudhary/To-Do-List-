@@ -1,0 +1,29 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/* posts/index.php */
+.post-timestamp{
+    width:17vw;
+}
+
+#mytable{
+    width: 100%;
+}
+table, th, td {
+    border:1px solid black;
+  }
+
+  /* login system code */
+  .maincontainer{
+      color: black;
+      margin: auto;
+      margin-top:30vh ;
+      width: 30vw;
+      height: 50vh;
+      background-color: white;
+  }
